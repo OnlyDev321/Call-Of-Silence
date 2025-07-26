@@ -43,6 +43,7 @@ html {
   backdrop-filter: none;
   border: none;
   animation: fadeInUp 1.5s cubic-bezier(0.23, 1, 0.32, 1);
+  pointer-events: none;
 }
 
 .content h1 {
